@@ -1,0 +1,85 @@
+{
+  "medicines": [
+    {
+      "id": "66f4",
+      "name": "",
+      "stock": null,
+      "userEmail": "abm10175@gmail.com",
+      "addedAt": "2025-09-01T05:14:37.780Z"
+    },
+    {
+      "id": "766d",
+      "name": "",
+      "stock": null,
+      "userEmail": "abm10175@gmail.com",
+      "addedAt": "2025-09-01T05:14:38.884Z"
+    },
+    {
+      "id": "607e",
+      "name": "",
+      "stock": null,
+      "userEmail": "abm10175@gmail.com",
+      "addedAt": "2025-09-01T05:14:39.070Z"
+    },
+    {
+      "id": "dab5",
+      "name": "",
+      "stock": null,
+      "userEmail": "abm10175@gmail.com",
+      "addedAt": "2025-09-01T05:14:39.243Z"
+    },
+    {
+      "id": "0545",
+      "name": "",
+      "stock": null,
+      "userEmail": "abm10175@gmail.com",
+      "addedAt": "2025-09-01T05:14:39.409Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phone": "9876543210",
+      "address": "Kochi, Kerala",
+      "email": "john@example.com",
+      "password": "john123"
+    },
+    {
+      "id": "2",
+      "name": "Anjali Kumar",
+      "phone": "9876501234",
+      "address": "Bangalore, Karnataka",
+      "email": "anjali@example.com",
+      "password": "anjali123"
+    },
+    {
+      "id": "83f1",
+      "name": "abin babu bm",
+      "phone": "07907695084",
+      "address": "house no 40b grace bhavan thejus nagar vayalikada vattiyoorkavu p.o",
+      "email": "abm10175@gmail.com",
+      "password": "123",
+      "password_confirmation": "123"
+    },
+    
+    {
+      "id": "4",
+      "name": "Alice Smith",
+      "phone": "9876512340",
+      "address": "Mumbai, Maharashtra",
+      "email": "abm10175@gmail.com"
+  }  ],
+  "orders": [
+    {
+      "id": "1",
+      "customerId": 1,
+      "medicineIds": [
+        1,
+        3
+      ],
+      "total": 145,
+      "orderDate": "2025-08-31"
+    }
+  ]
+}
